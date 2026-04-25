@@ -16,7 +16,7 @@
 [![Version](https://img.shields.io/badge/Version-0.1-cyan?style=flat-square)]()
 [![License](https://img.shields.io/badge/License-Private-red?style=flat-square)]()
 [![Telegram](https://img.shields.io/badge/Telegram-MeowLeak-2CA5E0?style=flat-square&logo=telegram)](https://t.me/meowleak)
-[![Discord](https://img.shields.io/badge/Discord-MeowMal-5865F2?style=flat-square&logo=discord)](https://discord.gg/v9VzbtCRMZ)
+[![Discord](https://img.shields.io/badge/Discord-MeowMal-5865F2?style=flat-square&logo=discord)](https://discord.gg/7RRv93nXCp)
 
 *Drop. Run. Filter. Done.*
 
